@@ -189,7 +189,7 @@
     cv2.destroyAllWindows()
     vs.stop()
     
-Change the threshold values according to your need , you can see these lines of code in abvoe document no 06.
+Change the threshold values according to your need , you can see these lines of code in above document no 06.
 ```
 EYE_AR_THRESH = 0.2
 EYE_AR_CONSEC_FRAMES = 30
