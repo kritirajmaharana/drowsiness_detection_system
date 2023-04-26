@@ -189,11 +189,11 @@
     cv2.destroyAllWindows()
     vs.stop()
     
-Change the threshold values according to your need , you can see these lines of code in abvoe document
+Change the threshold values according to your need , you can see these lines of code in abvoe document no 06.
 ```
 EYE_AR_THRESH = 0.2
 EYE_AR_CONSEC_FRAMES = 30
-YAWN_THRESH = 10`	//change this according to the distance from the camera
+YAWN_THRESH = 30`	// change this according to the distance from the camera
 ```    
 ## Author
 **Kritiraj Maharana** 
